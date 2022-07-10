@@ -9,6 +9,7 @@ public class Employee {
 	
 	public void empName() {
 		System.out.println("Employee Name is Saravana");
+		System.out.println("Employee Name is Pandiyan");
 
 	}
 	
